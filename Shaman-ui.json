@@ -1,0 +1,49 @@
+{
+  "Shaman:AshesToAshesDiscardAction": {
+    "TEXT": [
+      "Сброс для Прах к праху"
+    ]
+  },
+  "Shaman:GraveChillAction": {
+    "TEXT": [
+      "РАСКОЛОТ"
+    ]
+  },
+  "Shaman:RadiantManifestationAction": {
+    "TEXT": [
+      "Выберите карту."
+    ]
+  },
+  "Shaman:Elements": {
+    "TEXT": [
+      "shaman:Огонь",
+      "shaman:Лёд",
+      "shaman:Молния",
+      "shaman:Земля"
+    ]
+  },
+  "Shaman:ElementLetters": {
+    "TEXT": [
+      "О",
+      "Л",
+      "М",
+      "З"
+    ]
+  },
+  "Shaman:GaiasEmbraceIgniteOption": {
+    "TEXT": ["shaman:Поджог"]
+  },
+  "Shaman:GaiasEmbraceChillOption": {
+    "TEXT": ["shaman:Обморожение"]
+  },
+  "Shaman:GaiasEmbraceShockOption": {
+    "TEXT": ["shaman:Шок"]
+  },
+  "Shaman:ShamanModPanel": {
+    "TEXT": [
+      "Большие символы элементов",
+      "Буквенные обозначения элементов)",
+      "Подсказка для реликвий (Тотем предков)"
+    ]
+  }
+}
