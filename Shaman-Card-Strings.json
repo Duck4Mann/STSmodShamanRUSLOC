@@ -8,353 +8,353 @@
     "DESCRIPTION": "Даёт !B! Защиты."
   },
   "Shaman:Scorch": {
-    "NAME": "Scorch",
+    "NAME": "Опалить",
     "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! shaman:Поджога."
   },
   "Shaman:Manastorm": {
-    "NAME": "Manastorm",
-    "DESCRIPTION": "Накладывает !shaman:M2! shaman:Обморожения and !shaman:M2! shaman:Шока случайному врагу !M! раз."
+    "NAME": "Манашторм",
+    "DESCRIPTION": "Накладывает !shaman:M2! shaman:Обморожения и !shaman:M2! shaman:Шока случайному врагу !M! раза."
   },
   "Shaman:Firebolt": {
-    "NAME": "Firebolt",
+    "NAME": "Всполох",
     "DESCRIPTION": "Наносит !D! урона. NL Добавляет *Угасающий\u00a0уголёк в стопку добора.",
     "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет *Угасающий\u00a0уголёк в руку и стопку добора."
   },
   "Shaman:SpiritFire": {
-    "NAME": "Spirit Fire",
+    "NAME": "Духовный огонь",
     "DESCRIPTION": "Сжигает до 2 карт. NL Наносит !D! урона. NL Накладывает !M! shaman:Поджога за каждый отличающийся shaman:Элемент выбранных карт."
   },
   "Shaman:SpreadingBlaze": {
-    "NAME": "Spreading Blaze",
+    "NAME": "Распространяющийся огонь",
     "DESCRIPTION": "Наносит !D! урона. NL Вы берёте !M! карт(ы). NL Вы сбрасываете карты взятые таким образом, если они не обладают shaman:Огнём."
   },
   "Shaman:Flare": {
-    "NAME": "Flare",
+    "NAME": "Вспышка",
     "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! shaman:Поджога."
   },
   "Shaman:Disintegrate": {
-    "NAME": "Disintegrate",
-    "DESCRIPTION": "Наносит !D! урона. NL Наносит !M! дополнительного урона за каждую карту shaman:Огоня в колоде."
+    "NAME": "Расщепить",
+    "DESCRIPTION": "Наносит !D! урона. NL Наносит !M! дополнительного урона за каждую карту shaman:Огня в колоде."
   },
   "Shaman:Firestorm": {
-    "NAME": "Firestorm",
+    "NAME": "Огненная буря",
     "DESCRIPTION": "Наносит !D! урона и накладывает !M! shaman:Поджога ВСЕМ врагам. NL Сжигается."
   },
   "Shaman:CircleOfEmbers": {
-    "NAME": "Circle of Embers",
+    "NAME": "Круг углей",
     "DESCRIPTION": "Даёт !B! Защиты. NL Если на враге есть !shaman:M2! или больше shaman:Поджога, даёт !M! дополнительной Защиты и добавляет *Угасающий\u00a0уголёк в стопку сброса."
   },
   "Shaman:FadingEmber": {
-    "NAME": "Fading Ember",
+    "NAME": "Угасающий уголёк",
     "DESCRIPTION": "Накладывает !M! shaman:Поджога. NL Сжигается."
   },
   "Shaman:ConsumingFlame": {
-    "NAME": "Consuming Flame",
-    "DESCRIPTION": "Превращает !M!% of shaman:Обморожения \u00a0\u00a0\u00a0\u00a0\u00a0 NL и shaman:Шока в shaman:Поджог."
+    "NAME": "Пожирающее пламя",
+    "DESCRIPTION": "Превращает !M!%  shaman:Обморожения \u00a0\u00a0\u00a0\u00a0\u00a0 NL и shaman:Шока в shaman:Поджог."
   },
   "Shaman:AshesToAshes": {
-    "NAME": "Ashes to Ashes",
+    "NAME": "Прах к праху",
     "DESCRIPTION": "Вы берёте !M! карт. NL Вы сбрасываете карту. NL Если сброшенная карта - НЕ карта shaman:Огня, вы сбрасываете ещё одну."
   },
   "Shaman:ReadTheFlames": {
-    "NAME": "Read the Flames",
-    "DESCRIPTION": "Вы берёте !M! карты. NL Предсказание карт !shaman:M2!. NL Добавляет *Угасающий\u00a0уголёк в стопку добора."
+    "NAME": "Пламя укажет",
+    "DESCRIPTION": "Вы берёте !M! карты. NL Предсказание !shaman:M2! карт. NL Добавляет *Угасающий\u00a0уголёк в стопку добора."
   },
   "Shaman:Inferno": {
-    "NAME": "Inferno",
+    "NAME": "Инферно",
     "DESCRIPTION": "В начале вашего хода накладывает !M! shaman:Поджога ВСЕМ врагам."
   },
   "Shaman:FireTotem": {
-    "NAME": "Fire Totem",
+    "NAME": "Тотем огня",
     "DESCRIPTION": "При разыгрывании карты shaman:Огня стоимостью больше 0 вы добираете 1 карту.",
     "UPGRADE_DESCRIPTION": "Начальная. NL При разыгрывании карты shaman:Огня стоимостью больше 0 вы добираете 1 карту."
   },
   "Shaman:FreezingPalm": {
-    "NAME": "Freezing Palm",
+    "NAME": "Морозная ладонь",
     "DESCRIPTION": "Наносит !D! урона дважды. NL Накладывает !M! shaman:Обморожения."
   },
   "Shaman:LingeringCold": {
-    "NAME": "Lingering Cold",
+    "NAME": "Затяжной холод",
     "DESCRIPTION": "Наносит !D! урона. NL shaman:Ледяные Атаки наносят !M! дополнительного урона. NL В этот ход разыгрывание карт shaman:Льда даёт !shaman:M2! Защиты."
   },
   "Shaman:GraveChill": {
-    "NAME": "Grave Chill",
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! shaman:Обморожения. NL  Если ОЗ врага меньше чем или равны #yОбморожению, здоровья врага уменьшается до 0."
+    "NAME": "Могильный холод",
+    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! shaman:Обморожения. NL  Если ОЗ врага меньше чем или равны shaman:Обморожению, здоровья врага уменьшается до 0."
   },
   "Shaman:SlowThaw": {
-    "NAME": "Slow Thaw",
+    "NAME": "Медленная оттепель",
     "DESCRIPTION": "Стоит на 1 [E] меньше за каждую карту shaman:Льда сыгранную за бой. NL Наносит !D! урона."
   },
   "Shaman:FrostRay": {
-    "NAME": "Frost Ray",
+    "NAME": "Луч мороза",
     "DESCRIPTION": "Накладывает !M! shaman:Обморожения. NL Вы берёте !shaman:M2! карту."
   },
   "Shaman:ForceArmor": {
-    "NAME": "Force Armor",
+    "NAME": "Броня хлада",
     "DESCRIPTION": "Даёт !B! Защиты. NL Накладывает !M! shaman:Обморожения."
   },
   "Shaman:FreezeTheBlood": {
-    "NAME": "Freeze the Blood",
+    "NAME": "Заморозка крови",
     "DESCRIPTION": "ВСЕ враги получают урон равный их shaman:Обморожению. NL Урон увеличивается от shaman:Резонанса. NL Сжигается.",
     "UPGRADE_DESCRIPTION": "ВСЕ враги получают урон равный их shaman:Обморожению. NL Урон увеличивается от shaman:Резонанса."
   },
   "Shaman:DeepFreeze": {
-    "NAME": "Deep Freeze",
-    "DESCRIPTION": "Накладывает !M! shaman:Обморожения. NL В этом ходу shaman:Обморожение не уменьшается и макс. уменьшения урона от shaman:Обморожения увеличен на !shaman:M2!. NL Сжигается."
+    "NAME": "Глубокая заморозка",
+    "DESCRIPTION": "Накладывает !M! shaman:Обморожения. NL В этом ходу shaman:Обморожение не уменьшается и макс. уменьшение урона от shaman:Обморожения увеличено на !shaman:M2!. NL Сжигается."
   },
   "Shaman:IceWall": {
-    "NAME": "Ice Wall",
+    "NAME": "Ледяная стена",
     "DESCRIPTION": "Даёт !B! Защиты. NL Даёт !B! Защиты в следующем ходу. NL Добавляет Бездну на верх стопки добора."
   },
   "Shaman:GlacialFortress": {
-    "NAME": "Glacial Fortress",
+    "NAME": "Ледовая крепость",
     "DESCRIPTION": "Даёт !B! Защиты. NL Оставьте карты shaman:Льда и Эфирные карты в этом ходу."
   },
   "Shaman:SnowMelt": {
-    "NAME": "Snow Melt",
+    "NAME": "Тает снег",
     "DESCRIPTION": "Эфирная. NL Вы берёте !M! карт. NL В следующем ходу возьмите на !M! больше карт.",
     "UPGRADE_DESCRIPTION": "Вы берёте !M! карт. NL В следующем ходу возьмите на !M! больше карт."
   },
   "Shaman:IceTotem": {
-    "NAME": "Ice Totem",
+    "NAME": "Тотем льда",
     "DESCRIPTION": "Эфирная. NL При разыгрывании карт shaman:Льда , даёт [E] в следующем ходу.",
     "UPGRADE_DESCRIPTION": "При разыгрывании карт shaman:Льда , даёт [E] в следующем ходу."
   },
   "Shaman:ElectricStrike": {
-    "NAME": "Electric Strike",
+    "NAME": "Удар электричеством",
     "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! shaman:Шока. NL Вы сбрасываете !shaman:M2! карту. Вы берёте !shaman:M2! карту."
   },
   "Shaman:Thunder": {
-    "NAME": "Thunder",
-    "DESCRIPTION": "Наносит !D! урона случайному врагу. NL При разыгрывании карт shaman:Молнии (кроме Thunder), возвращается из стопки сброса в руку."
+    "NAME": "Молния",
+    "DESCRIPTION": "Наносит !D! урона случайному врагу. NL При разыгрывании карт shaman:Молнии (кроме Молния), возвращается из стопки сброса в руку."
   },
   "Shaman:ChainLightning": {
-    "NAME": "Chain Lightning",
+    "NAME": "Цепная молния",
     "DESCRIPTION": "Наносит !D! урона ВСЕ врагам. NL Если последняя сыгранная карта в этом ходу - карта shaman:Молнии , NL Даёт [E] .",
     "UPGRADE_DESCRIPTION": "Наносит !D! урона ВСЕ врагам. NL Если последняя сыгранная карта в этом ходу - карта shaman:Молнии , NL Даёт [E] . Если следующая карта тоже - вы берёте 1 карту."
   },
   "Shaman:LightningVolley": {
-    "NAME": "Lightning Volley",
+    "NAME": "Залп молний",
     "DESCRIPTION": "Эфирная. NL Наносит !D! урона случайному врагу !M! раз."
   },
   "Shaman:VoltCyclone": {
-    "NAME": "Volt Cyclone",
+    "NAME": "Вольтовой циклон",
     "DESCRIPTION": "Эфирная. NL Наносит !D! урона ВСЕМ врагам. NL Накладывает !M! shaman:Шока ВСЕМ врагам."
   },
   "Shaman:WhisperingWind": {
-    "NAME": "Whispering Wind",
-    "DESCRIPTION": "Эфирная. NL Накладывает !M! Слабости and !shaman:M2! shaman:Шока ВСЕМ врагам."
+    "NAME": "Шепчущие ветра",
+    "DESCRIPTION": "Эфирная. NL Накладывает !M! Слабости и !shaman:M2! shaman:Шока ВСЕМ врагам."
   },
   "Shaman:GalvanicJolt": {
-    "NAME": "Galvanic Jolt",
+    "NAME": "Гальванический ток",
     "DESCRIPTION": "Эфирная. NL Даёт [E] [E]. NL Вы сбрасываете все карты кроме карт shaman:Молнии.",
     "UPGRADE_DESCRIPTION": "Эфирная. NL Даёт [E] [E] [E]. NL Вы сбрасываете все карты кроме карт shaman:Молнии."
   },
   "Shaman:Impulse": {
-    "NAME": "Impulse",
-    "DESCRIPTION": "Эфирная. NL Вы берёте !shaman:M2! карт. NL После розыгрыша !M! карт вы заканчиваете ход."
+    "NAME": "Импульс",
+    "DESCRIPTION": "Эфирная. NL Вы берёте !shaman:M2! карт(ы). NL После розыгрыша !M! карт вы заканчиваете ход."
   },
   "Shaman:BecomeTheStorm": {
-    "NAME": "Become the Storm",
+    "NAME": "Стать штормом",
     "DESCRIPTION": "ВСЕ карты кроме #yУмений получают shaman:Элемент shaman:Молнии и оставляют старые."
   },
   "Shaman:Electromagnetism": {
-    "NAME": "Electromagnetism",
+    "NAME": "Электромагнетизм",
     "DESCRIPTION": "Атаки shaman:Молнии наносят !M! дополнительного урона."
   },
   "Shaman:ShockAndAwe": {
-    "NAME": "Shock and Awe",
-    "DESCRIPTION": "Первое наложение shaman:Шока в каждом ходу даёт 1 карту."
+    "NAME": "Шок и трепет",
+    "DESCRIPTION": "За первое наложение shaman:Шока в каждом ходу вы берёте 1 карту."
   },
   "Shaman:LightningTotem": {
-    "NAME": "Lightning Totem",
+    "NAME": "Тотем молнии",
     "DESCRIPTION": "Эфирная. NL При разыгрывании карт shaman:Молнии даёт !M! временной Ловкости.",
     "UPGRADE_DESCRIPTION": "При разыгрывании карт shaman:Молнии даёт !M! временной Ловкости."
   },
   "Shaman:Meteor": {
-    "NAME": "Meteor",
+    "NAME": "Метеорит",
     "DESCRIPTION": "Наносит !D! урона. NL Урон дополнительно увеличивается shaman:Резонансом.",
     "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Урон дополнительно увеличивается shaman:Резонансом в двойном размере."
   },
   "Shaman:MassiveHammer": {
-    "NAME": "Massive Hammer",
+    "NAME": "Огромный молот",
     "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! shaman:Резонанса."
   },
   "Shaman:BindingChains": {
-    "NAME": "Binding Chains",
+    "NAME": "Сковывающие цепи",
     "DESCRIPTION": "Даёт !B! Защиты. NL Враг теряет !M! Силы в этом ходу. NL Сжигается."
   },
   "Shaman:EmeraldShield": {
-    "NAME": "Emerald Shield",
+    "NAME": "Изумрудный щит",
     "DESCRIPTION": "Даёт !B! Защиты. NL Если вы атакованы в этот ход, накладывает !M! shaman:Резонанса на атакующего (макс. {0} за врага)."
   },
   "Shaman:DigDeep": {
-    "NAME": "Dig Deep",
+    "NAME": "Докопаться",
     "DESCRIPTION": "Вы кладёте 1 карту shaman:Земли из стопки добора в руку. NL Сжигается.",
     "UPGRADE_DESCRIPTION": "Вы кладёте 1 карту shaman:Земли из стопки добора в руку.",
     "EXTENDED_DESCRIPTION": ["У меня нет карт Земли NL в стопке добора."]
   },
   "Shaman:ElementalResonance": {
-    "NAME": "Elemental Resonance",
+    "NAME": "Резонанс элементов",
     "DESCRIPTION": "Накладывает shaman:Резонанс на ВСЕХ врагов равный их числу shaman:эффектов\u00a0шамана .",
     "UPGRADE_DESCRIPTION": "Накладывает shaman:Резонанс на ВСЕХ врагов равный их числу shaman:эффектов\u00a0шамана + 1."
   },
   "Shaman:ResonatingArmor": {
-    "NAME": "Resonating Armor",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Накладывает !M! shaman:Резонанс на ВСЕХ врагов."
+    "NAME": "Броня резонанса",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Накладывает !M! shaman:Резонанса на ВСЕХ врагов."
   },
   "Shaman:SolidAsStone": {
-    "NAME": "Solid as Stone",
-    "DESCRIPTION": "Неиграбельная. NL Когда вы берёте, сбрасываете или Сжигаете эту карту, даёт !M! Защиты. NL При разыгрывании карты shaman:Земли вместе с этой картой в руке, даёт !shaman:M2! Защиты.",
+    "NAME": "Твёрдость камня",
+    "DESCRIPTION": "Неиграбельная. NL Когда вы берёте, сбрасываете или Сжигаете эту карту, даёт !M! Защиты. NL При разыгрывании карты shaman:Земли с этой картой в руке, даёт !shaman:M2! Защиты.",
     "EXTENDED_DESCRIPTION": ["Я не могу сыграть эту карту."]
   },
   "Shaman:ShapedSteel": {
-    "NAME": "Shaped Steel",
+    "NAME": "Воссоздание стали",
     "DESCRIPTION": "Даёт !B! Защиты. NL Даёт !M! shaman:Металлизация."
   },
   "Shaman:EarthTotem": {
-    "NAME": "Earth Totem",
+    "NAME": "Тотем земли",
     "DESCRIPTION": "При разыгрывании и доборе карт shaman:Земли даёт !M! Защиты.",
     "UPGRADE_DESCRIPTION": "Начальная. NL При разыгрывании и доборе карт shaman:Земли даёт !M! Защиты."
   },
   "Shaman:MagmaBurst": {
-    "NAME": "Magma Burst",
+    "NAME": "Выброс магмы",
     "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! shaman:Поджога. NL Накладывает !shaman:M2! shaman:Резонанса. NL Сжигается."
   },
   "Shaman:Frostfire": {
-    "NAME": "Frostfire",
+    "NAME": "Ледяной огонь",
     "DESCRIPTION": "Эфирная. NL Накладывает !M! shaman:Поджога и !shaman:M2! shaman:Обморожения на ВСЕХ врагов. NL Сжигается."
   },
   "Shaman:WindAndFlame": {
-    "NAME": "Wind and Flame",
+    "NAME": "Ветра и пламя",
     "DESCRIPTION": "Эфирная. NL Когда вы накладываете shaman:Поджог или shaman:Шок, накладывает !M!% NL как другой эффект."
   },
   "Shaman:ElementalAegis": {
-    "NAME": "Elemental Aegis",
+    "NAME": "Эгида элементов",
     "DESCRIPTION": "Даёт !B! Защиты X раз. NL Накладывает !M!X shaman:Поджога, !shaman:M2!X NL shaman:Обморожения и !shaman:M3!X shaman:Шока на ВСЕХ врагов."
   },
   "Shaman:FrozenEarth": {
-    "NAME": "Frozen Earth",
+    "NAME": "Мир хлада",
     "DESCRIPTION": "Даёт !B! Защиты. NL Наносит !D! урона. NL Увеличивает урон и Защиту на !M! за каждую вторую карту shaman:Льда или shaman:Земли в руке и стопке сброса."
   },
   "Shaman:LuminousShroud": {
-    "NAME": "Luminous Shroud",
+    "NAME": "Светящийся покров",
     "DESCRIPTION": "Даёт !B! Защиты. NL Накладывает !M! shaman:Резонанса. NL Даёт дополнительную Защиту от половины % shaman:Шока."
   },
   "Shaman:Surge": {
-    "NAME": "Surge",
+    "NAME": "Всплеск",
     "DESCRIPTION": "Эфирная. NL В этом ходу, ваша следующая карта shaman:Огня или shaman:Молнии сыграется дважды.",
     "UPGRADE_DESCRIPTION": "Эфирная. NL В этом ходу, ваши следующие !M! карты shaman:Огня или shaman:Молнии сыграется дважды."
   },
   "Shaman:EssenceSiphon": {
-    "NAME": "Essence Siphon",
+    "NAME": "Кража сущности",
     "DESCRIPTION": "Наносит !D! урона. NL Вы берёте 1 карту за каждый shaman:Поджог, shaman:Обморожение и shaman:Шок на враге."
   },
   "Shaman:ChaosBolt": {
-    "NAME": "Chaos Bolt",
-    "DESCRIPTION": "Наносит !D! урона. NL Случайно накладывает !shaman:M2! shaman:Поджог, shaman:Обморожение или shaman:Шок !M! times."
+    "NAME": "Стрела хаоса",
+    "DESCRIPTION": "Наносит !D! урона. NL Случайно накладывает !shaman:M2! shaman:Поджог, shaman:Обморожение или shaman:Шок !M! раз."
   },
   "Shaman:StormfrostAscension": {
-    "NAME": "Stormfrost Ascension",
+    "NAME": "Вознесение бури",
     "DESCRIPTION": "Вы разыгрываете следующие !M! Эфирные карты из стопок добора и сброса. Сжигает любые Проклятья и Статусы сыгранные таким образом.",
     "EXTENDED_DESCRIPTION": ["У меня нет Эфирных карт."]
   },
   "Shaman:PrimalClaws": {
-    "NAME": "Primal Claws",
+    "NAME": "Первобытные когти",
     "DESCRIPTION": "Когда Атака наносит урон по ОЗ накладывает !M! shaman:Поджог, shaman:Обморожение и shaman:Шок."
   },
   "Shaman:FromThinAir": {
-    "NAME": "From Thin Air",
+    "NAME": "Из воздуха",
     "DESCRIPTION": "Добавляет 1 случайную карту shaman:Льда, shaman:Молнии или shaman:Земли с {0} или меньше shaman:Элементами в руку. Эта карта стоит на 1 меньше в этом ходу. NL Сжигается.",
     "UPGRADE_DESCRIPTION": "Добавляет !M! случайные карты shaman:Льда, shaman:Молнии или shaman:Земли с {0} или меньше shaman:Элементами в руку. Эти карты стоят на 1 меньше в этом ходу. NL Сжигается.."
   },
   "Shaman:ShatterTheIce": {
-    "NAME": "Shatter the Ice",
+    "NAME": "Разбить лёд",
     "DESCRIPTION": "Даёт !B! Защиты за ВСЕ ваши карты shaman:Льда. Если карт {0}+, даёт {1} Силы и Ловкости. NL Сжигает !shaman:iM!% ваших shaman:Ледяных \u00a0\u00a0\u00a0 карт. NL Сжигается.",
     "EXTENDED_DESCRIPTION": ["Даёт !B! Защиты за ВСЕ ваши !shaman:M2! карты shaman:Льда.  Если карт {0}+, даёт {1} Силы и Ловкости. NL Сжигает !shaman:iM!% ваших shaman:Ледяных карт. NL Сжигается."]
   },
   "Shaman:RadiantManifestation": {
-    "NAME": "Radiant Manifestation",
+    "NAME": "Сияющее проявление",
     "DESCRIPTION": "Вы выбираете shaman:Элементальную карту из стопки добора. NL Разыграйте и Сожгите её.",
     "UPGRADE_DESCRIPTION":  "Вы выбираете shaman:Элементальную карту из стопки добора. NL Разыграйте её.",
     "EXTENDED_DESCRIPTION": ["У меня нет Элементальных карт NL в стопке добора."]
   },
   "Shaman:ElementalForm": {
-    "NAME": "Elemental Form",
-    "DESCRIPTION": "При разыгрывании карты (стоимостью больше 0) того же shaman:Элемента , как и у прошлой сыгранной карты, в этом ходу, даёт !M! Защиты."
+    "NAME": "Облик элементаля",
+    "DESCRIPTION": "При разыгрывании карты (стоимостью больше 0) того же shaman:Элемента , как и у прошлой сыгранной карты в этом ходу, даёт !M! Защиты."
   },
   "Shaman:ArchmagesCharm": {
-    "NAME": "Archmage's Charm",
-    "DESCRIPTION": "Накладывает !M! shaman:Поджога, !M! shaman:Обморожения, !M! shaman:Шок, and !shaman:M2! shaman:Резонанс."
+    "NAME": "Чары архимага",
+    "DESCRIPTION": "Накладывает !M! shaman:Поджога, !M! shaman:Обморожения, !M! shaman:Шока и !shaman:M2! shaman:Резонанс."
   },
   "Shaman:EchoingStrike": {
-    "NAME": "Echoing Strike",
+    "NAME": "Эхо удар",
     "DESCRIPTION": "Наносит !D! урона за каждый shaman:Эффект\u00a0шамана."
   },
   "Shaman:Harmony": {
-    "NAME": "Harmony",
-    "DESCRIPTION": "Сбрасывает вашу руку. NL Даёт Защиту равную количеству shaman:Элементов сброшенных карт * !shaman:M2! . NL Вы берёте !M! карты."
+    "NAME": "Гармония",
+    "DESCRIPTION": "Сбрасывает вашу руку. NL Даёт Защиту равную количеству shaman:Элементов сброшенных карт  !shaman:M2! X . NL Вы берёте !M! карты."
   },
   "Shaman:BloodMagic": {
-    "NAME": "Blood Magic",
+    "NAME": "Кровавая магия",
     "DESCRIPTION": "Карты других цветов, Статусы и Проклятья приобретают все 4 shaman:Элемента. NL При Сжигании shaman:Элементальной карты даёт !M! Защиты.",
     "UPGRADE_DESCRIPTION": "Начальная. NL Карты других цветов, Статусы и Проклятья приобретают все 4 shaman:Элемента. NL При Сжигании shaman:Элементальной карты даёт !M! Защиты."
   },
   "Shaman:ConsultTheStars": {
-    "NAME": "Consult the Stars",
-    "DESCRIPTION": "Scry !shaman:M2!. NL Choose an shaman:Элемент. NL You can only play cards of that shaman:Элемент this turn. NL Draw !M! cards."
+    "NAME": "Поговорить со звёздами",
+    "DESCRIPTION": "Вы предсказываете !shaman:M2!. NL Выберите shaman:Элемент. NL Вы можете разыгрывать карты только этого shaman:Элемента в этом ходу. NL Вы берёте !M! карт(ы)."
   },
   "Shaman:MysticGuide": {
-    "NAME": "Mystic Guide",
-    "DESCRIPTION": "Draw 1 card. If it was: NL shaman:Огонь: Heal !M! HP. Сжигается. NL shaman:Лёд: Draw 1 card next turn. NL shaman:Молния: Даёт !shaman:M2! Vigor. NL shaman:Земля: Даёт !B! Защиты."
+    "NAME": "Мистическое руководство",
+    "DESCRIPTION": "Вы берёте 1 карту. Если эта карта: NL shaman:Огня: Восстанавливает !M! ОЗ. Сжигается. NL shaman:Льда: Вы берёте 1 карту в следующем ходу. NL shaman:Молнии: Даёт !shaman:M2! Бодрости. NL shaman:Земли: Даёт !B! Защиты."
   },
   "Shaman:GaiasEmbrace": {
-    "NAME": "Gaia's Embrace",
-    "DESCRIPTION": "Choose one: apply !M! shaman:Поджога, !shaman:M2! shaman:Обморожения, or !shaman:M3! shaman:Шок. NL Накладывает !shaman:M4! shaman:Резонанс."
+    "NAME": "Объятия Геи",
+    "DESCRIPTION": "Выберите одно: накладывает !M! shaman:Поджога, !shaman:M2! shaman:Обморожения или !shaman:M3! shaman:Шока. NL Накладывает !shaman:M4! shaman:Резонанса."
   },
   "Shaman:ShapeTheAether": {
-    "NAME": "Shape the Aether",
-    "DESCRIPTION": "Choose one: draw {0} cards, даёт {1} shaman:Металлизация, даёт {2} Strength, or apply {3} Weak to ALL enemies.",
-    "UPGRADE_DESCRIPTION": "Choose two: draw {0} cards, даёт {1} shaman:Металлизация, даёт {2} Strength, or apply {3} Weak to ALL enemies."
+    "NAME": "Обуздать эфир",
+    "DESCRIPTION": "Выберите одно: вы берёте {0} карт, даёт {1} shaman:Металлизация, даёт {2} Силы или накладывает {3} Слабости на ВСЕХ врагов.",
+    "UPGRADE_DESCRIPTION": "Выберите два: вы берёте {0} карт, даёт {1} shaman:Металлизация, даёт {2} Силы или накладывает {3} Слабости на ВСЕХ врагов."
   },
   "Shaman:ShapeTheAetherDrawOption": {
-    "NAME": "Draw",
-    "DESCRIPTION": "Draw {0} cards."
+    "NAME": "Вытянуть",
+    "DESCRIPTION": "Вы берёте {0} карт."
   },
   "Shaman:ShapeTheAetherMetallicizeOption": {
     "NAME": "Металлизация",
     "DESCRIPTION": "Даёт {0} shaman:Металлизация."
   },
   "Shaman:ShapeTheAetherStrengthOption": {
-    "NAME": "Strength",
-    "DESCRIPTION": "Даёт {0} Strength."
+    "NAME": "Сила",
+    "DESCRIPTION": "Даёт {0} Силы."
   },
   "Shaman:ShapeTheAetherWeakOption": {
-    "NAME": "Weak",
-    "DESCRIPTION": "Накладывает {0} Weak to ALL enemies."
+    "NAME": "Слабость",
+    "DESCRIPTION": "Накладывает {0}Слабости на ВСЕХ врагов."
   },
   "Shaman:SpiritsWrath": {
-    "NAME": "Spirit's Wrath",
-    "DESCRIPTION": "Наносит !D! урона. NL The next *Shaman card you play has all shaman:Элементы.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL The next !M! *Shaman cards you play have all shaman:Элементы."
+    "NAME": "Гнев духов",
+    "DESCRIPTION": "Наносит !D! урона. NL Следующая карта Шамана обладает всеми shaman:Элементами.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Следующие !M! карты Шамана обладают всеми shaman:Элементами."
   },
   "Shaman:StoneAndSnow": {
-    "NAME": "Stone and Snow",
-    "DESCRIPTION": "At the start of your turn, add a random Common or Uncommon shaman:Лёд or shaman:Земля card to your hand. If it costs more than 1, it costs {0} less this turn."
+    "NAME": "Снег и камень",
+    "DESCRIPTION": "В начале вашего хода добавляет случайную Обысчную или Необычную карту shaman:Льда или shaman:Земли в руку. Если стоит больше 1 стоимость этой карты уменьшается на {0} в этом ходу."
   },
   "Shaman:Augury": {
-    "NAME": "Augury",
-    "DESCRIPTION": "Scry !shaman:M2!. NL Draw !M!. NL When you draw this card, it gains a random shaman:Элемент."
+    "NAME": "Предсказать",
+    "DESCRIPTION": "Вы предсказываете !shaman:M2! карт(ы). NL Вы берёте !M! карты. NL При вытаскивании этой карты, она получает случайный shaman:Элемент."
   },
   "Shaman:Harvest": {
-    "NAME": "Harvest",
-    "DESCRIPTION": "Наносит !D! урона. NL Put an shaman:Элементальную card from your discard pile into your hand. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Put an shaman:Элементальную card from your discard pile into your hand."
+    "NAME": "Пожинать",
+    "DESCRIPTION": "Наносит !D! урона. NL Вы кладёте shaman:Элементальную карту из стопки сброса в руку. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Вы кладёте shaman:Элементальную карту из стопки сброса в руку."
   },
   "Shaman:AbsoluteZero": {
-    "NAME": "Absolute Zero",
-    "DESCRIPTION": "Эфирная. NL Наносит урона equal to the enemy's shaman:Обморожения. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Эфирная. NL Наносит урона equal to the enemy's shaman:Обморожения. NL Shuffle this card into your draw pile.",
+    "NAME": "Абсолютный ноль",
+    "DESCRIPTION": "Эфирная. NL Наносит урон равный shaman:Обморожению врага. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Эфирная. NL Наносит урон равный shaman:Обморожению врага. NL Добавляет эту карту в стопку добора.",
     "EXTENDED_DESCRIPTION": [" NL (Наносит !D! урона.)"]
   },
   "Shaman:SadisticNaturePatch": {
