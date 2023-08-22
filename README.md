@@ -1,11 +1,8 @@
-Mod https://github.com/tldyl/demoMod
-Названия брал с Вики по ETG
-
 Установка
 
-1. Открыть папку с модом (Steam\SteamApps\workshop\content\646570\2007764058)
+1. Открыть папку с модом (Steam\SteamApps\workshop\content\646570\2836011594)
 
-2. Открыть файл demoMod.jar редактором архивов
+2. Открыть файл Shaman.jar редактором архивов
 
 3. В архиве открыть папку eng в localization и заменить на файлы из репозитория
   
